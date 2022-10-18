@@ -1,5 +1,5 @@
 # Power-BI-Dashboard-and-Descriptive-Statistics
-Dashboard made during the course https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science. This Dashboard was made with statistic concepts using M language to calculate and show it in graphics.
+Dashboard made during the course https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science. This Dashboard was made with statistic concepts using M language to calculate and show descriptive statistics through graphics.
 
 ![image](https://user-images.githubusercontent.com/114714846/196320475-a5913ab3-7748-490a-bb48-6a01e0ef6147.png)
 
